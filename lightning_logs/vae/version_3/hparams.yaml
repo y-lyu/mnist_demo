@@ -1,0 +1,5 @@
+h_dim1: 512
+h_dim2: 256
+learning_rate: 0.001
+x_dim: 784
+z_dim: 2
